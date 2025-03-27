@@ -6,6 +6,8 @@
 - 🔵 SQL
 
 ## 📁 Project | Tools | Description
+Excel Portfolio: [View raw data]()
+
 ## 📄Resume
 👉 [View my resume here]( ./Thi_Nguyen_Resume_2025.pdf )
 ---
