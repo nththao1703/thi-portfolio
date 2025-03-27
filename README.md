@@ -7,7 +7,7 @@
 
 ## 📁 Project | Tools | Description
 ## 📄Resume
-👉 [View my resume here] (./2025_Thi_Nguyen_Resume_Official.pdf)
+👉 [View my resume here] ( ./2025_Thi_Nguyen_Resume_Official.pdf)
 ---
 ## 📫Contact
 - 📧 thi.th.nguyen96@gmail.com
