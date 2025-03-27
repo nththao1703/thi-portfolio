@@ -11,5 +11,5 @@
 ---
 ## 📫Contact
 - 📧 thi.th.nguyen96@gmail.com
-- 💼 LinkedIn:
+- 💼 LinkedIn: https://www.linkedin.com/in/thinguyen1703/
 - 🔍 Portfolio Website: https://nththao1703.github.io/thi-portfolio/
